@@ -90,3 +90,9 @@
 
 - npm install react-bootstrap bootstrap
 - update App.js
+
+12. Create Product and Rating Component
+
+- create Rating component
+- create Product component
+- use Rating component in Product component
