@@ -96,3 +96,9 @@
 - create Rating component
 - create Product component
 - use Rating component in Product component
+
+13. Create Product Details Screen
+
+- fetch product from backend
+- create 3 columns for image, info and action
+- set browser tab title with react-helmet-async
