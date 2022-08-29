@@ -110,9 +110,14 @@
 - create message component
 - create utils.js to define getError function
 
-15. Add to Cart Functionality
+15. Add To Cart Functionality
 
 - create React Context
 - define reducer
 - create store provider
 - implement add to cart button click handler
+
+16. Complete Add To Cart
+
+- check if item exists in the cart
+- check count in stock in backend
