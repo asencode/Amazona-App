@@ -121,3 +121,9 @@
 
 - check if item exists in the cart
 - check count in stock in backend
+
+17. Create Cart Screen
+
+- create 2 columns
+- display items list
+- create action column
