@@ -139,3 +139,11 @@
 - create sign in form
 - add email and password
 - add sign in button
+
+20. Connect to MongoDB Database
+
+- create atlas mongodb database (cloud)
+- install local mongodb database (local)
+- npm install mongoose
+- npm install dotenv
+- connect to mongodb database
