@@ -162,3 +162,10 @@
 - seed sample users
 - create user routes
 - npm install bcryptjs
+
+23. Create Signin Backend API
+
+- npm install express-async-handler
+- Create signin api
+- npm install jsonwebtoken
+- define generateToken
