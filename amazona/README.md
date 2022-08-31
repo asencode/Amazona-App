@@ -147,3 +147,11 @@
 - npm install mongoose
 - npm install dotenv
 - connect to mongodb database
+
+21. Seed Sample Data
+
+- create product model
+- create user model
+- create seed route
+- use route in server.js
+- seed sample product
