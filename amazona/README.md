@@ -155,3 +155,10 @@
 - create seed route
 - use route in server.js
 - seed sample product
+
+22. Seed Sample Users
+
+- create user model
+- seed sample users
+- create user routes
+- npm install bcryptjs
