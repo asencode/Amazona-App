@@ -192,3 +192,9 @@
 
 - create input form
 - handle submit
+
+28. Create Place Order Screen
+
+- show cart items, payment and address
+- handle place order action
+- create order create api
