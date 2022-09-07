@@ -229,3 +229,13 @@
 - show user information
 - create user update api
 - update user info
+
+33. Publish To Heroku
+
+- create and config node project (npm init)
+- server build folder in frontend folder
+- create heroku account
+- connect it to github
+- create mongodb atlas database
+- set database connection in heroku env variables
+- commit and push
